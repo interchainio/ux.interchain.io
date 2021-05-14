@@ -11,7 +11,7 @@ nav_order: 1
 Highlight the emerging challenges that must be addressed to ensure high-quality user experiences (UX) and developer experiences (DX) on an IBC connected Internet of Blockchains. We want to build standards and applications for a better UX/DX  through a collaborative, open dialogue.
 {: .fs-6 .fw-300 }
 
-[Read Notes of previous Meetings](https://interchain.neueux.com/meeting_notes/meetings.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/apeunit/interchain.neueux.com){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Read Notes of previous Meetings](https://interchain.neueux.com/meeting_notes/meetings.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/interchainio/ux.interchain..io){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -47,4 +47,4 @@ The next meetings will be:
 
 
 # Join our discussions!
-<a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-telegram" style="font-size:36px; margin-right:0.5em" aria-hidden="true"></i></a>   <a href="https://github.com/apeunit/interchain.neueux.com" target="_blank"><i class="fa fa-github" style="font-size:40px"></i></a>
+<a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-telegram" style="font-size:36px; margin-right:0.5em" aria-hidden="true"></i></a>   <a href="https://github.com/interchainio/ux.interchain..io" target="_blank"><i class="fa fa-github" style="font-size:40px"></i></a>
